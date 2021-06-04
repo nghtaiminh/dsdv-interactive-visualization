@@ -1,0 +1,165 @@
+body { 
+  background: #0a091f;
+  color: #333333;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+* {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+#slider{
+  position: absolute;
+  top: 360px;
+  left: 80px;
+  stroke: grey;
+  fill: grey;
+  font-family: 'Titillium Web', sans-serif;
+  
+}
+#value{
+  font-size: 100px;
+  position: absolute;
+  top: 400px;
+  left: 1300px;
+  color: grey;
+}
+
+
+
+/*-----------------Map--------------*/
+#tooltip {
+  position: absolute;
+  width: auto;
+  height: auto;
+  padding: 10px;
+  background-color: whitesmoke;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  pointer-events: none;
+  color: black;
+}
+
+#tooltip.hidden {
+  display: none;
+}
+#interactiveMap{
+  background-color: #0a091f;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+#zoom_in{
+  position: absolute;
+  top: 330px;
+  left: 20px;
+}
+#zoom_out{
+  position: absolute;
+  top: 330px;
+  left: 40px;
+}
+/*----Checkbox----*/
+#box{
+  position: absolute;
+  top: 365px;
+  left: 20px;
+}
+button {
+  background-color: grey;
+}
+/*------------Text-----------*/
+text{
+  font-family:'Karla';
+}
+
+#title{
+  font-size: 44px;
+  color: White;
+  position: absolute;
+  top: 0px;
+  left: 900px;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#descript{
+  font-size: 20px;
+  position: absolute;
+  color: grey;
+  top: 60px;
+  left: 900px;
+}
+ 
+/*-------------- Bar chart-------------*/  
+#barchart{
+  position: absolute;
+  top: 280px;
+  left: 900px;
+}
+.axis.xAxis text{
+  font-family: 'Titillium Web', sans-serif;
+  fill: grey;
+}
+.axis.xAxis path{
+  stroke: grey;
+}
+.axis.xAxis line{
+  stroke: whitesmoke;
+}
+
+text.title{
+  font-size: 24px;
+  font-weight: 500;
+  font-family: 'Titillium Web', sans-serif;
+  fill: grey;
+}
+text.label{
+  font-weight: 600;
+  font-family: 'Titillium Web', sans-serif;
+}
+text.valueLabel{
+  font-weight: 300;
+  font-size: 14px;
+  font-family: 'Titillium Web', sans-serif;
+}
+/*Checkbox*/
+label {
+  color: grey;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+/*------------------------------------*/
+
+/*---------Line Chart------------*/
+#linechart {    
+  position:absolute;
+  top:420px;
+  left:0px;
+  height:80px;
+}
+.line-group {
+  mix-blend-mode: multiply;
+}
+.x.axis text{
+  fill: grey;
+}
+.x.axis path{
+  stroke: grey;
+}
+.x.axis line{
+  stroke: grey;
+}
+
+.y.axis text{
+  fill: grey;
+}
+.y.axis path{
+  stroke: grey;
+}
+.y.axis line{
+  stroke: grey;
+}
+

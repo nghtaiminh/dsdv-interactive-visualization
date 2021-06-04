@@ -1,0 +1,451 @@
+Country,Year,Emission
+Asia ,1751,0
+Asia ,1752,0
+Asia ,1753,0
+Asia ,1754,0
+Asia ,1755,0
+Asia ,1756,0
+Asia ,1757,0
+Asia ,1758,0
+Asia ,1759,0
+Asia ,1760,0
+Asia ,1761,0
+Asia ,1762,0
+Asia ,1763,0
+Asia ,1764,0
+Asia ,1765,0
+Asia ,1766,0
+Asia ,1767,0
+Asia ,1768,0
+Asia ,1769,0
+Asia ,1770,0
+Asia ,1771,0
+Asia ,1772,0
+Asia ,1773,0
+Asia ,1774,0
+Asia ,1775,0
+Asia ,1776,0
+Asia ,1777,0
+Asia ,1778,0
+Asia ,1779,0
+Asia ,1780,0
+Asia ,1781,0
+Asia ,1782,0
+Asia ,1783,0
+Asia ,1784,0
+Asia ,1785,0
+Asia ,1786,0
+Asia ,1787,0
+Asia ,1788,0
+Asia ,1789,0
+Asia ,1790,0
+Asia ,1791,0
+Asia ,1792,0
+Asia ,1793,0
+Asia ,1794,0
+Asia ,1795,0
+Asia ,1796,0
+Asia ,1797,0
+Asia ,1798,0
+Asia ,1799,0
+Asia ,1800,0
+Asia ,1801,0
+Asia ,1802,0
+Asia ,1803,0
+Asia ,1804,0
+Asia ,1805,0
+Asia ,1806,0
+Asia ,1807,0
+Asia ,1808,0
+Asia ,1809,0
+Asia ,1810,0
+Asia ,1811,0
+Asia ,1812,0
+Asia ,1813,0
+Asia ,1814,0
+Asia ,1815,0
+Asia ,1816,0
+Asia ,1817,0
+Asia ,1818,0
+Asia ,1819,0
+Asia ,1820,0
+Asia ,1821,0
+Asia ,1822,0
+Asia ,1823,0
+Asia ,1824,0
+Asia ,1825,0
+Asia ,1826,0
+Asia ,1827,0
+Asia ,1828,0
+Asia ,1829,0
+Asia ,1830,0
+Asia ,1831,0
+Asia ,1832,0
+Asia ,1833,0
+Asia ,1834,0
+Asia ,1835,0
+Asia ,1836,0
+Asia ,1837,0
+Asia ,1838,0
+Asia ,1839,0
+Asia ,1840,0
+Americas,1751,0
+Americas,1752,0
+Americas,1753,0
+Americas,1754,0
+Americas,1755,0
+Americas,1756,0
+Americas,1757,0
+Americas,1758,0
+Americas,1759,0
+Americas,1760,0
+Americas,1761,0
+Americas,1762,0
+Americas,1763,0
+Americas,1764,0
+Americas,1765,0
+Americas,1766,0
+Americas,1767,0
+Americas,1768,0
+Americas,1769,0
+Americas,1770,0
+Americas,1771,0
+Americas,1772,0
+Americas,1773,0
+Americas,1774,0
+Americas,1775,0
+Americas,1776,0
+Americas,1777,0
+Americas,1778,0
+Americas,1779,0
+Americas,1780,0
+Americas,1781,0
+Americas,1782,0
+Americas,1783,0
+Americas,1784,0
+Americas,1785,3664
+Americas,1786,7328
+Americas,1787,10992
+Americas,1788,14656
+Americas,1789,18320
+Americas,1790,21984
+Americas,1791,25648
+Americas,1792,29312
+Americas,1793,32976
+Americas,1794,36640
+Americas,1795,40304
+Americas,1796,43968
+Americas,1797,47632
+Americas,1798,51296
+Americas,1799,54960
+Americas,1800,58624
+Americas,1801,62288
+Americas,1802,65952
+Americas,1803,69616
+Americas,1804,73280
+Americas,1805,76944
+Americas,1806,80608
+Americas,1807,84272
+Americas,1808,87936
+Americas,1809,91600
+Americas,1810,95264
+Americas,1811,98928
+Americas,1812,102592
+Americas,1813,106256
+Americas,1814,109920
+Americas,1815,113584
+Americas,1816,117248
+Americas,1817,120912
+Americas,1818,124576
+Americas,1819,128240
+Americas,1820,131904
+Americas,1821,135568
+Americas,1822,139232
+Americas,1823,142896
+Americas,1824,146560
+Americas,1825,150224
+Americas,1826,153888
+Americas,1827,157552
+Americas,1828,161216
+Americas,1829,164880
+Americas,1830,168544
+Americas,1831,172208
+Americas,1832,175872
+Americas,1833,179536
+Americas,1834,183200
+Americas,1835,186864
+Americas,1836,190528
+Americas,1837,194192
+Americas,1838,197856
+Americas,1839,201520
+Americas,1840,205184
+Europe,1751,9350528
+Europe,1752,18704720
+Europe,1753,28058912
+Europe,1754,37416768
+Europe,1755,46778288
+Europe,1756,56784672
+Europe,1757,66794720
+Europe,1758,76808432
+Europe,1759,86825808
+Europe,1760,96843184
+Europe,1761,107816864
+Europe,1762,118794208
+Europe,1763,129775216
+Europe,1764,140759888
+Europe,1765,151748224
+Europe,1766,164007968
+Europe,1767,176271376
+Europe,1768,188538448
+Europe,1769,200809184
+Europe,1770,213083584
+Europe,1771,226695344
+Europe,1772,240310768
+Europe,1773,253929856
+Europe,1774,267552608
+Europe,1775,281179024
+Europe,1776,296216080
+Europe,1777,311256800
+Europe,1778,326301184
+Europe,1779,341349232
+Europe,1780,356404608
+Europe,1781,373248016
+Europe,1782,390095088
+Europe,1783,406949488
+Europe,1784,423807552
+Europe,1785,440672944
+Europe,1786,459821008
+Europe,1787,478976400
+Europe,1788,498135456
+Europe,1789,517301840
+Europe,1790,536475552
+Europe,1791,557891632
+Europe,1792,579784032
+Europe,1793,601694752
+Europe,1794,623572496
+Europe,1795,645461232
+Europe,1796,668408864
+Europe,1797,692499664
+Europe,1798,717590736
+Europe,1799,744015504
+Europe,1800,771850912
+Europe,1801,799539760
+Europe,1802,836029536
+Europe,1803,867217504
+Europe,1804,901190112
+Europe,1805,934265040
+Europe,1806,968974112
+Europe,1807,1005467552
+Europe,1808,1040136320
+Europe,1809,1074819744
+Europe,1810,1111778512
+Europe,1811,1150910032
+Europe,1812,1191430208
+Europe,1813,1232126256
+Europe,1814,1273690672
+Europe,1815,1316574128
+Europe,1816,1363572256
+Europe,1817,1412281472
+Europe,1818,1461140912
+Europe,1819,1510322784
+Europe,1820,1560215472
+Europe,1821,1610818976
+Europe,1822,1663415696
+Europe,1823,1719060864
+Europe,1824,1776567344
+Europe,1825,1836184288
+Europe,1826,1896284880
+Europe,1827,1960749296
+Europe,1828,2025788960
+Europe,1829,2090374288
+Europe,1830,2177379632
+Europe,1831,2259614448
+Europe,1832,2341684384
+Europe,1833,2424941456
+Europe,1834,2510041520
+Europe,1835,2596152848
+Europe,1836,2696176384
+Europe,1837,2795533072
+Europe,1838,2898491472
+Europe,1839,3004542288
+Europe,1840,3117551040
+Africa,1751,0
+Africa,1752,0
+Africa,1753,0
+Africa,1754,0
+Africa,1755,0
+Africa,1756,0
+Africa,1757,0
+Africa,1758,0
+Africa,1759,0
+Africa,1760,0
+Africa,1761,0
+Africa,1762,0
+Africa,1763,0
+Africa,1764,0
+Africa,1765,0
+Africa,1766,0
+Africa,1767,0
+Africa,1768,0
+Africa,1769,0
+Africa,1770,0
+Africa,1771,0
+Africa,1772,0
+Africa,1773,0
+Africa,1774,0
+Africa,1775,0
+Africa,1776,0
+Africa,1777,0
+Africa,1778,0
+Africa,1779,0
+Africa,1780,0
+Africa,1781,0
+Africa,1782,0
+Africa,1783,0
+Africa,1784,0
+Africa,1785,0
+Africa,1786,0
+Africa,1787,0
+Africa,1788,0
+Africa,1789,0
+Africa,1790,0
+Africa,1791,0
+Africa,1792,0
+Africa,1793,0
+Africa,1794,0
+Africa,1795,0
+Africa,1796,0
+Africa,1797,0
+Africa,1798,0
+Africa,1799,0
+Africa,1800,0
+Africa,1801,0
+Africa,1802,0
+Africa,1803,0
+Africa,1804,0
+Africa,1805,0
+Africa,1806,0
+Africa,1807,0
+Africa,1808,0
+Africa,1809,0
+Africa,1810,0
+Africa,1811,0
+Africa,1812,0
+Africa,1813,0
+Africa,1814,0
+Africa,1815,0
+Africa,1816,0
+Africa,1817,0
+Africa,1818,0
+Africa,1819,0
+Africa,1820,0
+Africa,1821,0
+Africa,1822,0
+Africa,1823,0
+Africa,1824,0
+Africa,1825,0
+Africa,1826,0
+Africa,1827,0
+Africa,1828,0
+Africa,1829,0
+Africa,1830,0
+Africa,1831,0
+Africa,1832,0
+Africa,1833,0
+Africa,1834,0
+Africa,1835,0
+Africa,1836,0
+Africa,1837,0
+Africa,1838,0
+Africa,1839,0
+Africa,1840,0
+Oceania,1751,0
+Oceania,1752,0
+Oceania,1753,0
+Oceania,1754,0
+Oceania,1755,0
+Oceania,1756,0
+Oceania,1757,0
+Oceania,1758,0
+Oceania,1759,0
+Oceania,1760,0
+Oceania,1761,0
+Oceania,1762,0
+Oceania,1763,0
+Oceania,1764,0
+Oceania,1765,0
+Oceania,1766,0
+Oceania,1767,0
+Oceania,1768,0
+Oceania,1769,0
+Oceania,1770,0
+Oceania,1771,0
+Oceania,1772,0
+Oceania,1773,0
+Oceania,1774,0
+Oceania,1775,0
+Oceania,1776,0
+Oceania,1777,0
+Oceania,1778,0
+Oceania,1779,0
+Oceania,1780,0
+Oceania,1781,0
+Oceania,1782,0
+Oceania,1783,0
+Oceania,1784,0
+Oceania,1785,0
+Oceania,1786,0
+Oceania,1787,0
+Oceania,1788,0
+Oceania,1789,0
+Oceania,1790,0
+Oceania,1791,0
+Oceania,1792,0
+Oceania,1793,0
+Oceania,1794,0
+Oceania,1795,0
+Oceania,1796,0
+Oceania,1797,0
+Oceania,1798,0
+Oceania,1799,0
+Oceania,1800,0
+Oceania,1801,0
+Oceania,1802,0
+Oceania,1803,0
+Oceania,1804,0
+Oceania,1805,0
+Oceania,1806,0
+Oceania,1807,0
+Oceania,1808,0
+Oceania,1809,0
+Oceania,1810,0
+Oceania,1811,0
+Oceania,1812,0
+Oceania,1813,0
+Oceania,1814,0
+Oceania,1815,0
+Oceania,1816,0
+Oceania,1817,0
+Oceania,1818,0
+Oceania,1819,0
+Oceania,1820,0
+Oceania,1821,0
+Oceania,1822,0
+Oceania,1823,0
+Oceania,1824,0
+Oceania,1825,0
+Oceania,1826,0
+Oceania,1827,0
+Oceania,1828,0
+Oceania,1829,0
+Oceania,1830,0
+Oceania,1831,0
+Oceania,1832,0
+Oceania,1833,0
+Oceania,1834,0
+Oceania,1835,0
+Oceania,1836,0
+Oceania,1837,0
+Oceania,1838,0
+Oceania,1839,0
+Oceania,1840,0
